@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/VS_projects/AIOPS_MLflow_multisteps_demo/mlruns/0/869926139f9c454a95c674fad7eaa357/artifacts
+end_time: 1658753787878
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 869926139f9c454a95c674fad7eaa357
+run_uuid: 869926139f9c454a95c674fad7eaa357
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1658753787838
+status: 3
+tags: []
+user_id: anils
